@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🙂
 
-### I'm Natalia from Berlin,        
+### I'm Natalia,        
 self-motivated and passionate **full stack web developer** with focus on **frontend** and **design**.
 
 <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=versi-on&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  />
