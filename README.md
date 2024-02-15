@@ -21,6 +21,7 @@ self-motivated and passionate **full stack web developer** with focus on **front
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000?logo=MongoDB)
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=Sass)
+
 ![git](https://img.shields.io/badge/-git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
 ![visual-studio-code](https://img.shields.io/badge/-VSC-000?logo=visual-studio-code)
