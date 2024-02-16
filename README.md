@@ -9,10 +9,8 @@ self-motivated and passionate **full stack web developer** with focus on **`fron
 
 <!--
 <br/>
-
  Technologie Stacks
 -->
-
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -21,12 +19,12 @@ self-motivated and passionate **full stack web developer** with focus on **`fron
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-000?logo=Django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-Mongodb-000?logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=Sass)
 
 ![git](https://img.shields.io/badge/-git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![visual-studio-code](https://img.shields.io/badge/-VSC-000?logo=visual-studio-code)
+![visual-studio-code](https://img.shields.io/badge/-VSCode-000?logo=visual-studio-code)
 
 
 
