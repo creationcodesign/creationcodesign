@@ -22,11 +22,14 @@ self-motivated and passionate **full stack web developer** with focus on **`fron
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=Sass)
 
+![postman](https://img.shields.io/badge/-postman-000?logo=postman)
 ![git](https://img.shields.io/badge/-git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
 ![visual-studio-code](https://img.shields.io/badge/-VSCode-000?logo=visual-studio-code)
+![figma](https://img.shields.io/badge/-figma-000?logo=figma)
 
-
+![notion](https://img.shields.io/badge/-notion-000?logo=notion)
+![obsidian](https://img.shields.io/badge/-obsidian-000?logo=obsidian)
 
 
 <!--
