@@ -1,6 +1,6 @@
 ### Hi there 👋🙂
 
-### I'm Natalia,        
+### I'm Natalia Alexandra,        
 self-motivated and passionate **full stack web developer** with focus on **`frontend`**  and  **`design`**
 
 
