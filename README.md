@@ -6,7 +6,6 @@ self-motivated and passionate **full stack web developer** with focus on **`fron
 
 <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creationcodesign&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  />
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
 <!--
 <br/>
@@ -14,6 +13,7 @@ self-motivated and passionate **full stack web developer** with focus on **`fron
 -->
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
